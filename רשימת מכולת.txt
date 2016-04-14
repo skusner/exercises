@@ -1,0 +1,23 @@
+1-Header
+
+- Colors:black,gray
+- Fonts: 2 types:Bold,Regular
+- Img:Logo
+
+2- Banner
+
+- Colors:Grey,black,white,yellow
+- Fonts:
+
+
+3- Sections
+
+-Colors:white,black,gray,light blue
+-Fonts: 3 types:title,subtitle,paragrpah
+-Img:Persons.
+
+4- Info
+
+Colors:gray,black
+Fonts:title,subtitle,pararaph
+Img:icons
