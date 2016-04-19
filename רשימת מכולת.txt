@@ -21,3 +21,10 @@
 Colors:gray,black
 Fonts:title,subtitle,pararaph
 Img:icons
+
+5- Form
+- title h3
+- title h5
+- text
+- text field form
+- button
